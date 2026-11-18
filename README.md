@@ -2,6 +2,9 @@
 
 Highlight and jump between matching brackets and XML/HTML tags with autocomplete and selection support.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [bracket-matcher](https://github.com/lumine-code/bracket-matcher).
+
 Fork of [bracket-matcher](https://github.com/pulsar-edit/pulsar/tree/master/packages/bracket-matcher).
 
 ## Features
